@@ -1,0 +1,15 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmall":{
+		"diableavionics_frost_StandardAA":1,
+		"diableavionics_strife_StandardAA":1,
+		"diableavionics_hoar_akimboAA":1,
+		"diableavionics_warlust_StandardAA":1,
+		"diableavionics_avalanche_variantAA":1,
+		"diableavionics_blizzaia_StandardAA":1,
+		"diableavionics_valiant_StandardAA":2,
+		"diableavionics_raven_StandardAA":2,
+		"diableavionics_zephyr_beamAA":2,
+	},
+}

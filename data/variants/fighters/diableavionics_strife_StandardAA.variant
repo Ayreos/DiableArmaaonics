@@ -1,0 +1,43 @@
+	{
+  "variantId": "diableavionics_strife_StandardAA",
+  "hullId": "daa_strifeAA",
+  "displayName": "standard",
+  "goalVariant": true,
+  "fluxCapacitors": 6,
+  "fluxVents": 6,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "diableavionics_wanzer",
+    "autorepair",
+    "frontshield",
+    "heavyarmor",
+    "magazines",
+    "targetingunit"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "E_HEAD": "diableavionics_strifehead"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "A_GUN": "diableavionics_strifegun"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "B_TORSO": "diableavionics_strifeTorso"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

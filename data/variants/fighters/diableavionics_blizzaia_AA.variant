@@ -1,0 +1,35 @@
+{
+  "displayName": "standard",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "daa_blizzaiaAA",
+  "hullMods": [
+    "diableavionics_wanzer",
+    "autorepair"
+  ],
+  "quality": 0,
+  "variantId": "diableavionics_blizzaia_StandardAA",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "LEFT": "diableavionics_blizzaiaCicada",
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "RIGHT": "diableavionics_blizzaiaGraveac",
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "HEAD": "diableavionics_blizzaiaHead",
+      }
+    },
+  ]
+}

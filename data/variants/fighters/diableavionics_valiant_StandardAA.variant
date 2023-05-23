@@ -1,0 +1,54 @@
+{
+  "variantId": "diableavionics_valiant_StandardAA",
+  "hullId": "daa_valiantAA",
+  "displayName": "standard",
+  "goalVariant": true,
+  "fluxCapacitors": 10,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "diableavionics_wanzer",
+    "autorepair",
+    "missleracks",
+    "hardenedshieldemitter"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0002": "diableavionics_thunderboltsmall"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "ITANOCIRCUS": "diableavionics_burchel"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "LEFTGUN": "diableavionics_valiantleftAA",
+        "RIGHTGUN": "diableavionics_valiantrightAA"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "HEAD": "diableavionics_valianthead"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

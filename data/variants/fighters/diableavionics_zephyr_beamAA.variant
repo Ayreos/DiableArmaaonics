@@ -1,0 +1,37 @@
+{
+  "variantId": "diableavionics_zephyr_beamAA",
+  "hullId": "daa_zephyrAA",
+  "displayName": "standard",
+  "goalVariant": true,
+  "fluxCapacitors": 10,
+  "fluxVents": 10,
+  "quality": 0,
+  "permaMods": [],
+  "hullMods": [
+    "diableavionics_wanzer",
+    "autorepair",
+    "targetingunit",
+    "high_scatter_amp",
+    "hardenedshieldemitter",
+    "extendedshieldemitter"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "LEFT_BEAM": "diableavionics_zephyr_leftBeam",
+        "RIGHT_BEAM": "diableavionics_zephyr_rightBeam"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "HEAD": "diableavionics_zephyr_head"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
