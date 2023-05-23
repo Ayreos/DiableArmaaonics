@@ -1,0 +1,8 @@
+
+ver 1.1
+-compatibility for SS 0.96a-RC10, had to remove removed Diable hullmod dependencies for: dampened mounts, wanzer gantry
+-fixed description on valiant (system), raven, frost and an issue with strife (visible hidden turret)
+-added descriptions for all strikecraft wanzers' weapons
+
+ver.1
+-release version

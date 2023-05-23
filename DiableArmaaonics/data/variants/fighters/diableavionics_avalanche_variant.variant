@@ -1,0 +1,29 @@
+{
+  "displayName": "7th gen Wanzer",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "diableavionics_avalancheAA",
+  "hullMods": [],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "diableavionics_avalanche_variantAA",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "GUN": "diableavionics_avalancheGun"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "HEAD": "diableavionics_avalancheHead"
+      }
+    }
+  ],
+  "wings": []
+}
