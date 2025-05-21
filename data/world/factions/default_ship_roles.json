@@ -1,0 +1,15 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmall":{
+		"daa_frost_Standard":1.5,
+		"daa_strife_Standard":1.5,
+		"daa_hoar_Standard":1.5,
+		"daa_warlust_Standard":1,
+		"daa_avalanche_Standard":1,
+		"daa_blizzaia_Standard":1,
+		"daa_valiant_Standard":0.75,
+		"daa_raven_Standard":0.75,
+		"daa_zephyr_Standard":0.75,
+	},
+}

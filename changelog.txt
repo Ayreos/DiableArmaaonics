@@ -1,0 +1,15 @@
+
+ver 1.2b
+-cleaned up unnecessary files and remade the default variants for the wanzers. 
+-Took out some of the makeshift shields that made the wanzers a pain to fight against, but adding accelerated thrusters to all of them actually made them more painf... i mean, more fun
+
+ver 1.2
+-compatibility for SS0.98-RC8, fixed the AI script from the recent DA version affecting pilotable wanzers. Also cleaned up most unnecessary files. Save incompatible with previous versions!
+
+ver 1.1
+-compatibility for SS 0.96a-RC10, had to remove removed Diable hullmod dependencies for: dampened mounts, wanzer gantry
+-fixed description on valiant (system), raven, frost and an issue with strife (visible hidden turret)
+-added descriptions for all strikecraft wanzers' weapons
+
+ver.1
+-release version

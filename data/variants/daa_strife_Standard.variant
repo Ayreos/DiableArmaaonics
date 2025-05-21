@@ -1,0 +1,25 @@
+{
+    "displayName": "standard",
+    "fluxCapacitors": 9,
+    "fluxVents": 6,
+    "goalVariant": true,
+    "hullId": "daa_strife",
+    "hullMods": [
+        "magazines",
+        "heavyarmor",
+        "targetingunit",
+        "frontshield"
+    ],
+    "quality": 1.0,
+    "variantId": "daa_strife_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "A_GUN": "diableavionics_strifegun",
+                "E_HEAD": "diableavionics_strifehead"
+            }
+        }
+    ]
+}

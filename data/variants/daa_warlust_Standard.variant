@@ -1,0 +1,26 @@
+{
+    "displayName": "standard",
+    "fluxCapacitors": 8,
+    "fluxVents": 5,
+    "goalVariant": true,
+    "hullId": "daa_warlust",
+    "hullMods": [
+        "targetingunit",
+        "reinforcedhull",
+        "frontshield",
+        "auxiliarythrusters"
+    ],
+    "quality": 1.0,
+    "variantId": "daa_warlust_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "LEFT": "diableavionics_warlustmissile",
+                "RIGHT": "diableavionics_warlustgun",
+                "WS_HEAD": "diableavionics_warlusthead"
+            }
+        }
+    ]
+}

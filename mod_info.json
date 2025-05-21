@@ -1,0 +1,20 @@
+{
+    "id":"diablearmaaonics",
+    "name":"Diable ARMAAonics",
+    "author":"Pep/Maintained by Argonaut",	
+    "version":"1.2b",
+    "description":"Introduces pilotable wanzers using the mechanics from ARMAA.",
+    "gameVersion": "0.98a-RC5",
+    "dependencies": [
+        {
+            "id": "armaa",
+            "name": "Arma Armatura",
+            #"version": "3.14"
+        },
+        {
+            "id": "diableavionics",
+            "name": "Diable Avionics",
+            #"version": "2.93"
+        },
+    ]
+}

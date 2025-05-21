@@ -1,0 +1,29 @@
+{
+	"hullFrequency":{
+		"hulls":{
+			"daa_frost":1.5,
+			"daa_strife":1.5,
+			"daa_hoar":1.5,
+			"daa_warlust":1,
+			"daa_avalanche":0.7,
+			"daa_blizzaia":0.7,
+			"daa_valiant":0.6,
+			"daa_raven":0.6,
+			"daa_zephyr":0.6,
+
+		},
+	},
+	"knownShips":{
+		"hulls":[	
+			"daa_frost",
+			"daa_strife",
+			"daa_hoar",
+			"daa_warlust",
+			"daa_avalanche",
+			"daa_blizzaia",
+			"daa_valiant",
+			"daa_raven",
+			"daa_zephyr",
+			],
+	},
+},	
