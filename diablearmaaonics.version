@@ -1,9 +1,9 @@
 {
-    "masterVersionFile":"",
+    "masterVersionFile":"https://raw.githubusercontent.com/Ayreos/DiableArmaaonics/refs/heads/main/diablearmaaonics.version",
     "modName":"diablearmaaonics",
     "modThreadId": 26984,
     "modNexusId":"",
-	"directDownloadURL":"",
+	"directDownloadURL":"https://github.com/Ayreos/DiableArmaaonics/releases/download/1.2.1/DiableArmaaonics.zip",
     "modVersion":
     {
         "major":1,
